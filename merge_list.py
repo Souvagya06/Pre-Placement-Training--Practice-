@@ -1,0 +1,5 @@
+l = eval(input("List 1: "))
+m = eval(input("List 2: "))
+l.sort()
+m.sort()
+print (l+m)
